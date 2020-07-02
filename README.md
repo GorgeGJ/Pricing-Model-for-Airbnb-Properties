@@ -1,6 +1,14 @@
 # Pricing-Model-for-Airbnb-Properties
 The business problem we are addressing is helping Airbnb hosts understand the numerical value of their apartments (target), to directly inform how to strategically price their rental properties (action) based on the type of rental and included features / amenities. To do this, our team has tested multiple models that use historical Airbnb data to identify what features of a property affect price. Ultimately, the main question we are trying to answer is as follows: Is there a price that our data model can recommend to maximize value creation and profit?
 
+# Exploratory Data Analysis
+
+Conducted exploratory data analysis and created an interactive dashboard using plotly and flexdashboard in R
+https://gorgegj.github.io/JieGao.github.io/dashboard.html
+The graphs show that 
+1. price demonstrates three evident clustered pattern in terms of bed type.
+2. the location impacts price a lot
+
 # Modeling + Evaluation
 
 In modeling our data, we used three different types of models: 
