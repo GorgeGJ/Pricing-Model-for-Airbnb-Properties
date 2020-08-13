@@ -17,7 +17,7 @@ In modeling our data, we used three different types of models:
 3. M5P
 all with 10-fold cross-validation. By using cross validation we are addressing the potential problem of overfitting. 
 
-In defining the three models we used, linear regression is the most classic and common predictive model for a numeric target variable.5 REPTree is a decision tree that outputs a numeric value and is used as a regression, while the M5P classifier is a decision tree in which each tree node has a linear regression6. From our research and understanding, we can think of M5P as a combination of a decision tree and linear regression model.
+In defining the three models we used, linear regression is the most classic and common predictive model for a numeric target variable. REPTree is a decision tree that outputs a numeric value and is used as a regression, while the M5P classifier is a decision tree in which each tree node has a linear regression. From our research and understanding, we can think of M5P as a combination of a decision tree and linear regression model.
 
 The criteria we using are: 
 
