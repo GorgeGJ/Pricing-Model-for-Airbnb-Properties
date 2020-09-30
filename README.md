@@ -1,7 +1,7 @@
 # Pricing-Model-for-Airbnb-Properties
 The business problem we are addressing is helping Airbnb hosts understand the numerical value of their apartments (target), to directly inform how to strategically price their rental properties (action) based on the type of rental and included features / amenities. To do this, our team has tested multiple models that use historical Airbnb data to identify what features of a property affect price. Ultimately, the main question we are trying to answer is as follows: Is there a price that our data model can recommend to maximize value creation and profit? 
 
-(Find more detail in the paper attached /url{https://github.com/GorgeGJ/Pricing-Model-for-Airbnb-Properties/blob/master/Data%20Mining%20Group%20Project%20%E2%80%94%20Final%20Report.pdf})
+(Find more detail in the paper attached https://github.com/GorgeGJ/Pricing-Model-for-Airbnb-Properties/blob/master/Data%20Mining%20Group%20Project%20%E2%80%94%20Final%20Report.pdf)
 
 # Exploratory Data Analysis
 
